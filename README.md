@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DavidBBrand and I'm from middle Tennessee.
-- 👀 I’m interested in furthering my front-end development skills
-- 🌱 I’m currently learning HTML, CSS, JavaScript etc.
-- 💞️ I’m looking to collaborate on cool projects
+- 👀 aspiring full stack dev
+- 🌱 I’m currently focusing on learning the MERN stack 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me shoot me an email at dbdavebrand@gmail.com
 
 <!---
