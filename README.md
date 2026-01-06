@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I live in Tennessee, United States of America
-- 🌱 Interests: JavaScript, Python, MERN stack dev, MySQL, MongoDB, Linux, Bash
+- 👀 I'm from Nashville TN
+- 🌱 Interests: JavaScript, TypeScript, Python, MERN stack dev, data science, Reactjs, Nextjs
 - 📫 dbdavebrand@gmail.com
 
 
