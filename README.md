@@ -1,6 +1,5 @@
 - 👋 Hi, I’m David
-- 👀 I'm from Nashville TN
-- 🌱 Interests: JavaScript, Python, Vite, React, Full stack web development
+- 🌱 Interests: JavaScript, TypeScript, Next.js, Vite, Python, React, Django, FastAPI
 - 📫 dbdavebrand@gmail.com
 
 
